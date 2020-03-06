@@ -1,16 +1,8 @@
 # data_presentation
 
-A new Flutter application.
+![Screen Shot 2020-03-06 at 7 24 31 PM](https://user-images.githubusercontent.com/14840152/76107695-e572ae80-5fe1-11ea-8858-2eae80cf4507.png)
 
-## Getting Started
+![Screen Shot 2020-03-06 at 7 24 47 PM](https://user-images.githubusercontent.com/14840152/76107700-e6a3db80-5fe1-11ea-9b26-f746380f1a97.png)
 
-This project is a starting point for a Flutter application.
+![Screen Shot 2020-03-06 at 7 25 16 PM](https://user-images.githubusercontent.com/14840152/76107703-e73c7200-5fe1-11ea-8571-13fd1be13a8e.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
